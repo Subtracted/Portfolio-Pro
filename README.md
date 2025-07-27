@@ -1,8 +1,8 @@
-# 🌿 Portfolio Forestier - Développeur Full Stack
+#  Portfolio Forestier - Développeur Full Stack
 
 Un portfolio artistique et minimaliste inspiré des forêts, créé avec React, Framer Motion et Tailwind CSS.
 
-## ✨ Caractéristiques
+##  Caractéristiques
 
 - **Design Minimaliste** : Interface épurée avec des animations subtiles
 - **Thème Forestier** : Palette de couleurs inspirée de la nature (verts, sauges, mousses)
@@ -11,7 +11,7 @@ Un portfolio artistique et minimaliste inspiré des forêts, créé avec React, 
 - **Performance Optimisée** : Code moderne et lightweight
 - **Accessibilité** : Conforme aux standards WCAG
 
-## 🎨 Sections du Portfolio
+##  Sections du Portfolio
 
 1. **Hero** - Introduction artistique avec animations de particules
 2. **À Propos** - Présentation personnelle avec cartes interactives
@@ -19,7 +19,7 @@ Un portfolio artistique et minimaliste inspiré des forêts, créé avec React, 
 4. **Projets** - Galerie de projets avec cartes hover interactives
 5. **Contact** - Formulaire de contact avec animations élégantes
 
-## 🚀 Installation et Démarrage
+##  Installation et Démarrage
 
 ### Prérequis
 - Node.js (version 18+ recommandée)
@@ -49,7 +49,7 @@ npm run build    # Construire pour la production
 npm run preview  # Prévisualiser la build de production
 ```
 
-## 🎨 Personnalisation
+##  Personnalisation
 
 ### Couleurs et Thème
 
@@ -82,7 +82,7 @@ Les animations sont configurées avec Framer Motion :
 - Effets de parallaxe
 - Animations de particules
 
-## 📱 Responsive Design
+##  Responsive Design
 
 Le portfolio est entièrement responsive avec des breakpoints :
 
@@ -90,7 +90,7 @@ Le portfolio est entièrement responsive avec des breakpoints :
 - **Tablet** : 768px - 1024px
 - **Desktop** : 1024px+
 
-## 🌟 Fonctionnalités Avancées
+##  Fonctionnalités Avancées
 
 ### Curseur Personnalisé
 - Curseur feuille (🍃) par défaut
@@ -105,8 +105,8 @@ Le portfolio est entièrement responsive avec des breakpoints :
 - Dégradés animés
 - Effets de glass morphism
 - Animations de rotation et de scale
-
-## 🛠️ Technologies Utilisées
+ 
+## 🛠 Technologies Utilisées
 
 - **React 18** - Framework JavaScript
 - **Vite** - Build tool rapide
@@ -115,7 +115,7 @@ Le portfolio est entièrement responsive avec des breakpoints :
 - **Lucide React** - Icônes modernes
 - **React Intersection Observer** - Détection de scroll
 
-## 📦 Structure du Projet
+##  Structure du Projet
 
 ```
 Portfolio Pro/
@@ -138,7 +138,7 @@ Portfolio Pro/
 └── README.md
 ```
 
-## 🎯 Optimisations Recommandées
+##  Optimisations Recommandées
 
 ### Performance
 - Lazy loading des images
@@ -155,7 +155,7 @@ Portfolio Pro/
 - ARIA labels
 - Contraste des couleurs
 
-## 🚀 Déploiement
+##  Déploiement
 
 ### Netlify
 ```bash
@@ -172,32 +172,10 @@ vercel --prod
 ### GitHub Pages
 Utilisez GitHub Actions avec le workflow de build automatique.
 
-## 🤝 Contribution
+##  Contribution
 
 1. Fork le projet
 2. Créez votre branche (`git checkout -b feature/nouvelle-fonctionnalite`)
 3. Commit vos changements (`git commit -m 'Ajout d'une nouvelle fonctionnalité'`)
 4. Push vers la branche (`git push origin feature/nouvelle-fonctionnalite`)
 5. Ouvrez une Pull Request
-
-## 📄 Licence
-
-Ce projet est sous licence MIT. Voir le fichier `LICENSE` pour plus de détails.
-
-## 🌱 Inspiration
-
-Ce portfolio s'inspire de :
-- La beauté minimaliste des forêts
-- Les principes du design biophilique
-- L'harmonie entre technologie et nature
-- L'esthétique japonaise wabi-sabi
-
-## 📞 Contact
-
-- **Email** : hello@votre-portfolio.com
-- **LinkedIn** : [Votre LinkedIn]
-- **GitHub** : [Votre GitHub]
-
----
-
-Créé avec 💚 et beaucoup de ☕ par [Votre Nom] 
