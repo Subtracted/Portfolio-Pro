@@ -1,4 +1,4 @@
-#  Portfolio Forestier - Développeur Full Stack
+#  Portfolio Template - Développeur Full Stack
 
 Un portfolio artistique et minimaliste inspiré des forêts, créé avec React, Framer Motion et Tailwind CSS.
 
@@ -179,3 +179,4 @@ Utilisez GitHub Actions avec le workflow de build automatique.
 3. Commit vos changements (`git commit -m 'Ajout d'une nouvelle fonctionnalité'`)
 4. Push vers la branche (`git push origin feature/nouvelle-fonctionnalite`)
 5. Ouvrez une Pull Request
+
